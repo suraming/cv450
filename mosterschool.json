@@ -1,7 +1,7 @@
 {
 "Ads": [
     {
-     "select_main_ads": "",
+     "select_main_ads": "STARTAPP",
       "select_backup_ads":"",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
@@ -9,8 +9,8 @@
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_reward":"",
-      "interval_intertitial": 1,
-      "initialize_sdk":"",
+      "interval_intertitial": 0,
+      "initialize_sdk":"206201018",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
